@@ -13,11 +13,12 @@
   <a href="https://ksladnasx.github.io/vuepress_blog/"><img src="https://img.shields.io/badge/知乎-知识分享-0084ff?style=for-the-badge&logo=zhihu&logoColor=white" /></a>
   <a href="https://ksladnasx.github.io/vuepress_blog/"><img src="https://img.shields.io/badge/Email-联系我-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+<p align="center">
+<img src="https://i.ibb.co/YB0XcL1h/fe2a256affa0ef3401e23d877879b4e2.jpg" alt="图片" />
+</p>
 
 ---
-<p align="center">
-<img src="https://i.ibb.co/vCgfCfND/02d25d0526a02a24d22cc51be3d07b50.gif" alt="图片" />
-</p>
+
 <!-- 关于我部分 - 使用HTML实现分栏效果 -->
 <table align="center">
 <tr>
@@ -171,10 +172,6 @@
   <strong>📫 联系我：</strong> ???@qq.com | 微信：ksladnasx
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ksladnasx/ksladnasx/output/snake.svg" alt="贪吃蛇动画" />
-</p>
-
 ---
 
-⭐️ 来自 [ksladnasx](https://github.com/ksladnasx)
+❤️ 来自 [ksladnasx](https://github.com/ksladnasx)
