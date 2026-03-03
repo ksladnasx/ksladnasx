@@ -45,40 +45,18 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
-</td>
-</tr>
-</table>
+### 📊 GitHub 数据一览
 
-<!-- GitHub 统计卡片 - 两栏布局 -->
-<!-- <div align="center">
-  
-### 📊 GitHub 数据
+<!-- 主要仓库卡片 - 展示你的个人主页仓库作为代表 -->
 
-</div>
-
-<table align="center">
-<tr>
-<td>
-
-![ksladnasx 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=ksladnasx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</td>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksladnasx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub followers](https://img.shields.io/github/followers/ksladnasx?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ksladnasx?style=social)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ksladnasx)
 
 </td>
 </tr>
 </table>
 
-<!-- 奖杯展示 -->
-<!-- <div align="center">
-
-### 🏆 GitHub 成就
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ksladnasx&theme=onedark&row=1&column=7&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div> --> 
 
 <!-- 技术栈详情 - 使用徽章分类展示 -->
 ### 💻 技术栈详情
