@@ -192,13 +192,19 @@
 
 ---
 
-<!-- 联系方式 -->
 
-<p align="center">
-  <strong>📫 联系我：</strong> 8116022+1@qq.com | 微信：ksladnasx
+---
+[//]: # (Link to Chinese version README)
+英文介绍文档: [UN Version README](README.md)
+<!-- Contact Information -->
+<p>
+  
+  ❤️ 来自 [ksladnasx](https://github.com/ksladnasx)
+
 </p>
 
+---
 
-❤️ 来自 [ksladnasx](https://github.com/ksladnasx)
-
-英文介绍文档: [UN Version README](README.md)
+<p align="center" type="footer">
+  <strong>📫 联系我：</strong> 8116022+1@qq.com | 微信：ksladnasx
+</p>
