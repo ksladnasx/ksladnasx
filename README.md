@@ -143,7 +143,7 @@
 
 ---
 <div id="header" align="center">
-  <h1>Tools I use and learn 🚀</h1>
+  <h1>🚀 Tools I use and learn </h1>
 </div>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
@@ -171,13 +171,17 @@
 
 
 ---
-
-<!-- Contact Information -->
-<p align="center">
-  <strong>📫 Contact me:</strong> ???@qq.com | WeChat: ksladnasx
-</p>
-
-❤️ From [ksladnasx](https://github.com/ksladnasx)
-
 [//]: # (Link to Chinese version README)
 Chinese Version README: [🇨🇳 中文介绍文档](README-cn.md)
+<!-- Contact Information -->
+<p>
+  
+  ❤️ From [ksladnasx](https://github.com/ksladnasx)
+
+</p>
+
+---
+
+<p align="center" type="footer">
+  <strong>📫 Contact me:</strong> 8116022+1@qq.com | WeChat: ksladnasx
+</p>
