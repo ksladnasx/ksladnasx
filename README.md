@@ -53,6 +53,17 @@
 </tr>
 </table>
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=ksladnasx%2Fvuepress_blog&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ksladnasx/vuepress_blog&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ksladnasx/vuepress_blog&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ksladnasx/vuepress_blog&type=timeline&legend=top-left" />
+ </picture>
+</a>
+
+---
 
 <!-- Tech Stack Details - Categorized badges -->
 ### 💻 Tech Stack Details
