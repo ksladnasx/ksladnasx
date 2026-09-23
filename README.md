@@ -112,9 +112,9 @@
 <th>Tech Stack</th>
 </tr>
 <tr>
-<td><a href="https://github.com/ksladnasx/bookStore">ZhangYue Book Management System</a></td>
-<td>A full-stack management system with complete frontend, backend, and database operations</td>
-<td>Vue3, TS, Pinia, Element Plus, Node.js, Mysql2, Express</td>
+<td><a href="https://github.com/ksladnasx/Scrollark">Scrollark</a></td>
+<td>A review software that parses Markdown documents into knowledge cards.</td>
+<td>Expo,React</td>
 </tr>
 <tr>
 <td><a href="https://github.com/ksladnasx/vuepress_blog">Personal Blog</a></td>
@@ -125,6 +125,11 @@
 <td><a href="https://github.com/ksladnasx/steamdt-web">Item Query Tool</a></td>
 <td>Supports one-click, precise price queries</td>
 <td>Vue3, Pinia, Postman</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ksladnasx/bookStore">ZhangYue Book Management System</a></td>
+<td>A full-stack management system with complete frontend, backend, and database operations</td>
+<td>Vue3, TS, Pinia, Element Plus, Node.js, Mysql2, Express</td>
 </tr>
 </table>
 
