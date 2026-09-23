@@ -113,9 +113,9 @@
 <th>技术栈</th>
 </tr>
 <tr>
-<td><a href="https://github.com/ksladnasx/bookStore">掌&阅图书管理系统</a></td>
-<td>完整前后端以及数据库操纵的全栈管理系统</td>
-<td>Vue3, TS, Pinia, Element Plus，Nodejs,Mysql2,express</td>
+<td><a href="https://github.com/ksladnasx/Scrollark">Scrollark</a></td>
+<td>一个将markdown文档解析为知识卡片的复习软件</td>
+<td>Expo,React</td>
 </tr>
 <tr>
 <td><a href="https://github.com/ksladnasx/vuepress_blog">个人博客</a></td>
@@ -124,8 +124,13 @@
 </tr>
 <tr>
 <td><a href="https://github.com/ksladnasx/steamdt-web">饰品查询工具</a></td>
-<td>支持一键式，精确定位的价格查询</td>
+<td>支持一键式，精确定位的饰品价格查询</td>
 <td>Vue3,Pinia, Postman</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ksladnasx/bookStore">掌&阅图书管理系统</a></td>
+<td>完整前后端以及数据库操纵的全栈管理系统</td>
+<td>Vue3, TS, Pinia, Element Plus，Nodejs,Mysql2,express</td>
 </tr>
 </table>
 
