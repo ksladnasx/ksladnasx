@@ -118,8 +118,8 @@
 <td>Expo,React</td>
 </tr>
 <tr>
-<td><a href="https://github.com/ksladnasx/vuepress_blog">个人博客</a></td>
-<td>基于vuepress的个人博客，有高度的样式修改</td>
+<td><a href="https://github.com/ksladnasx/vuepress_blog_plus">vuepress_blog_plus</a></td>
+<td>基于vuepress的增强博客，有高度的自定义</td>
 <td>Vue3, css, vuepress</td>
 </tr>
 <tr>
