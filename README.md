@@ -117,8 +117,8 @@
 <td>Expo,React</td>
 </tr>
 <tr>
-<td><a href="https://github.com/ksladnasx/vuepress_blog">Personal Blog</a></td>
-<td>Vuepress-based personal blog with extensive style customizations</td>
+<td><a href="https://github.com/ksladnasx/vuepress_blog_plus">vuepress_blog_plus</a></td>
+<td>Vuepress-based enhenced blog with extensive style customizations</td>
 <td>Vue3, CSS, Vuepress</td>
 </tr>
 <tr>
